@@ -87,16 +87,16 @@ For a complete, reproducible run:
 ## Citation
 
 ```bibtex
-@article{balachandhar2026transport,
-  title   = {A Reproducible Finite-Volume Coupling of a Nonlinear Transport Equation to a Periodic Queue},
-  author  = {Balachandhar TN, Vivek},
-  year    = {2026},
-  doi     = {},
-  note    = {Reproducibility repository}
+@misc{balachandhar2026transport,
+  title        = {A Reproducible Finite-Volume Coupling of a Nonlinear Transport Equation to a Periodic Queue},
+  author       = {Balachandhar TN, Vivek and Pal, N.},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24324959},
+  howpublished = {\url{https://github.com/vivek-libs/nonlinear-transport-queue}},
+  note         = {Reproducibility repository and manuscript}
 }
 ```
-
-Replace the empty metadata fields after publication.
 
 ## License
 
