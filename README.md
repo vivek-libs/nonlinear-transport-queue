@@ -74,9 +74,6 @@ The reproduction is deterministic and does not require a random seed.
 ## Repository Layout
 
 - `reproduce.py` — deterministic simulation and reproduction script
-- `paper.pdf` — manuscript associated with the study
-- `requirements.txt` — pinned Python dependencies
-- `results.pdf` — generated result figure
 - `results.png` — optional generated raster figure
 - `LICENSE` — license terms
 
