@@ -3,11 +3,9 @@
 This repository reproduces the results in:
 
 > **A Reproducible Finite-Volume Coupling of a Nonlinear Transport Equation to a Periodic Queue**  
-> Vivek Balachandhar TN (2026)
+> Vivek Balachandhar TN and Nikhil Pal (2026)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
-> **Before release:** replace `XXXXXXX` with the assigned Zenodo DOI and remove this notice.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24324959.svg)](https://doi.org/10.5281/zenodo.24324959)
 
 ## Overview
 
